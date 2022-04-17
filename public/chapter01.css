@@ -1,8 +1,11 @@
 .logo{
     width: 22%;
-    height: 45%;
     position: absolute;
     top: 10%;
     margin-left: 12%;
     background-color: white;
+}
+
+img {
+    width: 100%;
 }
